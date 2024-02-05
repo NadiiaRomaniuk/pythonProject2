@@ -1,0 +1,1 @@
+print("Nadiia Romaniuk, 8 group")
